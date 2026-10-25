@@ -43,7 +43,7 @@ class SmartClubApp extends StatelessWidget {
             color: Colors.black87,
           ),
         ),
-        cardTheme: CardTheme(
+        cardTheme: CardThemeData(
           elevation: 0.5,
           color: Colors.white,
           shape: RoundedRectangleBorder(
